@@ -1,1 +1,2 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=witchbroom&fontSize=90)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/witchbroom)](https://hits.seeyoufarm.com)
